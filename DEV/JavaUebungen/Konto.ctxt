@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Konto
+comment1.params=pBesitzerName
+comment1.target=Konto(java.lang.String)
+comment2.params=pBetrag
+comment2.target=double\ einzahlen(double)
+comment3.params=pBetrag
+comment3.target=double\ auszahlen(double)
+comment4.params=pZinssatz
+comment4.target=double\ bucheZinsen(double)
+comment5.params=
+comment5.target=double\ getKontostand()
+comment6.params=pNeuerName
+comment6.target=void\ setBesitzerName(java.lang.String)
+comment7.params=
+comment7.target=java.lang.String\ getBesitzerName()
+comment8.params=pBetrag\ pZielkonto
+comment8.target=void\ ueberweisung(double,\ Konto)
+numComments=9
